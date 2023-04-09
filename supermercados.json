@@ -1,0 +1,114 @@
+[ 
+    {
+    "nomebre": "Mercadona",
+       "direcciónn": "Camino viejo de leganés",
+       "población": "madrid", 
+       "codigo_postal": "28019",
+       "geolocalización":[{
+             "latitud": "40°23'03.3 ",
+             "longitud": "3°43'44.5 "
+}],
+    "productos":[{
+          "leche":[{
+                 "marca": "leche_asturiana",
+                 "unidad": 6,
+                 "unidad_medida": "Litros",
+                 "ofreta":"10%",
+                 "precio": 1.78,
+                 "caducidad": "09/07/2023 "
+                
+        }],
+        "harina":[{
+                 "marca": "Selecta",
+                 "unidad": 1,
+                 "unidad_medida": "kilos",
+                 "ofreta": "null",
+                 "precio": 1.30,
+                 "caducidad": "09/09/2023 "
+        }],
+        "huevos":[{
+                 "marca": "Coviran ",
+                 "unidad": 12,
+                 "unidad_medida": "Docena",
+                 "ofreta":"null",
+                 "precio": 1.55,
+                 "caducidad": "09/05/2023"
+        }]
+ }]
+    },
+    {
+        
+    "nomebre":"Lidel",
+    "direcciónn": "calle de la oca",
+    "población": "madrid", 
+    "codigo_postal": "28025",
+    "geolocalización":[{
+          "latitud": "40°23'18.9",
+          "longitud": "3°44'26.1"
+}],
+ "productos":[{
+       "leche":[{
+              "marca": "leche_Gallega",
+              "unidad": 6,
+              "unidad_medida": "Litros",
+              "ofreta":"null",
+              "precio": 1.15,
+              "caducidad": "10/07/2023"
+     }],
+     "harina":[{
+              "marca":"Pan",
+              "unidad": 1,
+              "unidad_medida": "kilos",
+              "ofreta":"10%",
+              "precio": 1.35,
+              "caducidad": "20/09/2023"
+     }],
+     "huevos":[{
+              "marca": "Pitas_Pitas ",
+              "unidad": 12,
+              "unidad_medida": "Docena",
+              "ofreta":"null",
+              "precio": 1.99,
+              "caducidad": "15/05/2023"
+     }]
+     
+ }]
+    },
+    {
+        "nomebre":"Aldi",
+           "direcciónn": "calle matilde hernandez",
+           "población": "madrid", 
+           "codigo_postal": "28025 ",
+           "geolocalización":[{
+                 "latitud":"40°23'10.9 ",
+                 "longitud":"3°44'17.8 "
+    }],
+        "productos":[{
+              "leche":[{
+                     "nombre":"leche_Kaiku",
+                     "unidad": 6,
+                     "unidad_medida":"Litros",
+                     "ofreta":"15%",
+                     "precio": 1.65,
+                     "caducidad": "08/09/2023 "
+            }],
+            "harina":[{
+                     "nombre":"Bonanza ",
+                     "unidad": 1,
+                     "unidad_medida": "kilos",
+                     "ofreta":"null",
+                     "precio":1.25,
+                     "caducidad": "05/10/2023"
+            }],
+            "huevos":[{
+                     "nombre":"BIO",
+                     "unidad": 12,
+                     "unidad_medida": "Docena",
+                     "ofreta":"20%",
+                     "precio": "2.25 ",
+                     "caducidad": " 08/05/2023"
+            }]
+            
+        }]
+    }
+]
